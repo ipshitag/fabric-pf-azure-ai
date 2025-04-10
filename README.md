@@ -16,7 +16,7 @@ This architecture was presented at the Fabric Conference in Stockholm during a s
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisite
 - Azure subscription
 - Fabric F64 license
 - Knowledge of Azure and Fabric L100/L200
